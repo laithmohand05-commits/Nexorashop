@@ -1,0 +1,9 @@
+{
+  "name": "nexora-store-shared",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^10.2.2"
+  }
+}
